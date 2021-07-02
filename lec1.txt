@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 compared by allies
+=======
+this is commited by bob
+>>>>>>> develop
